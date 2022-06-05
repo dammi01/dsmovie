@@ -1,4 +1,4 @@
-package com.devsu
+package com.devsuperior.dsmovie.config;
 
 import java.util.Arrays;
 
@@ -13,8 +13,6 @@ import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
-
-perior.dsmovie.config;
 
 @Configuration
 @EnableWebSecurity
